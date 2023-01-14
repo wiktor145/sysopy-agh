@@ -1,0 +1,560 @@
+Times for large searching
+real time:    0.87
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.02
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+Times for large searching
+real time:    0.84
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+Times for large searching
+real time:    0.83
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+Times for large searching
+real time:    8.56
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.08
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large searching
+real time:    0.96
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.07
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+Times for large searching
+real time:    0.88
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.06
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large searching
+real time:    5.47
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.14
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large searching
+real time:    1.05
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.06
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+

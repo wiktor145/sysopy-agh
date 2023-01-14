@@ -1,0 +1,19 @@
+///////////////////Moj komentarz///////////////
+Wiekszosc wynikow przeprowadzonych testow to czas rowny 0.00. Wynika to z malej 
+dokladnosci pomiaru czasu z wykorzystaniem tickow systemowego zegara (0,01 s).
+Przeprowadzone poszukiwania nie byly zbyt duze, dlatego roznice pomiedzy roznymi
+bibliotekami sa niewielkie. Jedynymi roznicami sa czas systemowy dla wielokrotnego
+usuwania i tworzenia blokow w pamieci(tutaj biblioteka statyczna zanotowala 
+czas 0,01 sekundy, natomiast biblioteki dynamiczna i dzielona zanotowaly czas rowny 0,00 s) oraz rzeczywisty czas "duzego" przeszukiwania (biblioteki statyczna i wspoldzielona zanotowaly czas 0,85s a dynamiczna, 0,83s).
+
+
+
+/////Informacje odnosnie wykonywanych testow///////////
+large searching szuka plikow *.spec w katalogu /
+medium seraching szuka plikow library.h w katalogu /home
+small searching szuka plikow library.h w katalogu /home/wicia/CLionProjects/sysopy
+big, medium oraz small deleting/saving zapisuje i usuwa odpowiednio pliki big, medium i small.txt
+big.txt ma 107,6 kB
+medium.txt 2,6 kB
+small.txt 90 bajtow
+

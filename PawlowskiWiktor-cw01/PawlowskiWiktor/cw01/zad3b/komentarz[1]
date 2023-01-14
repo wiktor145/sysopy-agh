@@ -1,0 +1,30 @@
+////////Moj komentarz//////////
+Oto tabele z istotnymi roznicami w czasach pomiedzy kolejnymi bibliotekami i roznymi rodzajami optymalizacji:
+
+large searching real time:
+
+		O0	O1	O2 	O3
+static		0,90	0,87	0,87	0,93
+
+shared		0,88	0,87	0,88	0,92
+
+dynamic		0,87	0,88	0,90	0,88
+
+Pozostale czasy byly pomiedzy roznymi uruchomieniami takie same, badz roznily sie maksymalnie o 0,02s.
+
+Wedlug czasow, najlepsza optymalizacja byla optymalizacja -O1. 
+Moglo to byc spowodowane dosc prostymi
+i niezbyt wymagajacymi zadaniami, ktore spowodowaly, ze dalsze proby optymalizacji jedynie pogarszaly 
+wyniki. 
+Z drugiej strony, roznice miedzy czasami to zaledwie maksymalnie 0,06s (w przypadku biblioteki statycznej) co stanowi jedynie 6,7 procent roznicy. Przy tak niewielkich czasach wykonania operacji 
+(ponizej sekundy) roznice pomiedzy kolejnymi wywolaniami tej samej opcji moga byc rzedu roznic pomiedzy optymalizacjami. 
+
+/////Informacje odnosnie wykonywanych testow///////////
+large searching szuka plikow *.spec w katalogu /
+medium seraching szuka plikow library.h w katalogu /home
+small searching szuka plikow library.h w katalogu /home/wicia/CLionProjects/sysopy
+big, medium oraz small deleting/saving zapisuje i usuwa odpowiednio pliki big, medium i small.txt
+big.txt ma 107,6 kB
+medium.txt 2,6 kB
+small.txt 90 bajtow
+

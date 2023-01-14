@@ -1,0 +1,851 @@
+###################static library -O0##############
+Times for large searching
+real time:    0.90
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.04
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################shared library -O0#############
+Times for large searching
+real time:    0.88
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.02
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################dynamic library -O0#############
+Times for large searching
+real time:    0.87
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################static library -O1##############
+Times for large searching
+real time:    0.87
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################shared library -O1#############
+Times for large searching
+real time:    0.87
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################dynamic library -O1#############
+Times for large searching
+real time:    0.88
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.04
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+###################static library -O2##############
+Times for large searching
+real time:    0.87
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.02
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################shared library -O2#############
+Times for large searching
+real time:    0.88
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.04
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+###################dynamic library -O2#############
+Times for large searching
+real time:    0.90
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+###################static library -O3##############
+Times for large searching
+real time:    0.93
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+###################shared library -O3#############
+Times for large searching
+real time:    0.92
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.04
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.01
+user time:    0.00
+system time:    0.01
+-----------------
+
+
+###################dynamic library -O3#############
+Times for large searching
+real time:    0.88
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium searching
+real time:    0.03
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small searching
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for small deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for medium deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large saving
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for large deleting
+real time:    0.00
+user time:    0.00
+system time:    0.00
+-----------------
+
+
+Times for 1000 big saves an deletings
+real time:    0.02
+user time:    0.00
+system time:    0.00
+-----------------
+
