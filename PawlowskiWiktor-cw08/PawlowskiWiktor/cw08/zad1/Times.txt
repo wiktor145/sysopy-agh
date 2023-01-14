@@ -1,0 +1,224 @@
+Type: block Threads: 1 Filter size: 3 Time: 0 s 7743 us
+
+Type: Interleaved Threads: 1 Filter size: 3 Time: 0 s 7716 us
+
+Type: block Threads: 2 Filter size: 3 Time: 0 s 5526 us
+
+Type: Interleaved Threads: 2 Filter size: 3 Time: 0 s 4560 us
+
+Type: block Threads: 4 Filter size: 3 Time: 0 s 3978 us
+
+Type: Interleaved Threads: 4 Filter size: 3 Time: 0 s 3833 us
+
+Type: block Threads: 8 Filter size: 3 Time: 0 s 2171 us
+
+Type: Interleaved Threads: 8 Filter size: 3 Time: 0 s 2155 us
+
+Type: block Threads: 1 Filter size: 13 Time: 0 s 131756 us
+
+Type: Interleaved Threads: 1 Filter size: 13 Time: 0 s 129974 us
+
+Type: block Threads: 2 Filter size: 13 Time: 0 s 66612 us
+
+Type: Interleaved Threads: 2 Filter size: 13 Time: 0 s 66340 us
+
+Type: block Threads: 4 Filter size: 13 Time: 0 s 45896 us
+
+Type: Interleaved Threads: 4 Filter size: 13 Time: 0 s 45500 us
+
+Type: block Threads: 8 Filter size: 13 Time: 0 s 33988 us
+
+Type: Interleaved Threads: 8 Filter size: 13 Time: 0 s 39670 us
+
+Type: block Threads: 1 Filter size: 23 Time: 0 s 387956 us
+
+Type: Interleaved Threads: 1 Filter size: 23 Time: 0 s 382373 us
+
+Type: block Threads: 2 Filter size: 23 Time: 0 s 196198 us
+
+Type: Interleaved Threads: 2 Filter size: 23 Time: 0 s 202329 us
+
+Type: block Threads: 4 Filter size: 23 Time: 0 s 112020 us
+
+Type: Interleaved Threads: 4 Filter size: 23 Time: 0 s 101190 us
+
+Type: block Threads: 8 Filter size: 23 Time: 0 s 99059 us
+
+Type: Interleaved Threads: 8 Filter size: 23 Time: 0 s 96486 us
+
+Type: block Threads: 1 Filter size: 33 Time: 0 s 773795 us
+
+Type: Interleaved Threads: 1 Filter size: 33 Time: 0 s 773389 us
+
+Type: block Threads: 2 Filter size: 33 Time: 0 s 398124 us
+
+Type: Interleaved Threads: 2 Filter size: 33 Time: 0 s 395417 us
+
+Type: block Threads: 4 Filter size: 33 Time: 0 s 215432 us
+
+Type: Interleaved Threads: 4 Filter size: 33 Time: 0 s 214360 us
+
+Type: block Threads: 8 Filter size: 33 Time: 0 s 195462 us
+
+Type: Interleaved Threads: 8 Filter size: 33 Time: 0 s 191248 us
+
+Type: block Threads: 1 Filter size: 43 Time: 1 s 289102 us
+
+Type: Interleaved Threads: 1 Filter size: 43 Time: 1 s 285754 us
+
+Type: block Threads: 2 Filter size: 43 Time: 0 s 662821 us
+
+Type: Interleaved Threads: 2 Filter size: 43 Time: 0 s 670553 us
+
+Type: block Threads: 4 Filter size: 43 Time: 0 s 353450 us
+
+Type: Interleaved Threads: 4 Filter size: 43 Time: 0 s 347977 us
+
+Type: block Threads: 8 Filter size: 43 Time: 0 s 331273 us
+
+Type: Interleaved Threads: 8 Filter size: 43 Time: 0 s 329239 us
+
+Type: block Threads: 1 Filter size: 53 Time: 1 s 959380 us
+
+Type: Interleaved Threads: 1 Filter size: 53 Time: 1 s 939487 us
+
+Type: block Threads: 2 Filter size: 53 Time: 1 s 21179 us
+
+Type: Interleaved Threads: 2 Filter size: 53 Time: 1 s 17096 us
+
+Type: block Threads: 4 Filter size: 53 Time: 0 s 539530 us
+
+Type: Interleaved Threads: 4 Filter size: 53 Time: 0 s 517342 us
+
+Type: block Threads: 8 Filter size: 53 Time: 0 s 498003 us
+
+Type: Interleaved Threads: 8 Filter size: 53 Time: 0 s 491780 us
+
+Type: block Threads: 1 Filter size: 65 Time: 2 s 923332 us
+
+Type: Interleaved Threads: 1 Filter size: 65 Time: 2 s 900985 us
+
+Type: block Threads: 2 Filter size: 65 Time: 1 s 508492 us
+
+Type: Interleaved Threads: 2 Filter size: 65 Time: 1 s 494030 us
+
+Type: block Threads: 4 Filter size: 65 Time: 0 s 764541 us
+
+Type: Interleaved Threads: 4 Filter size: 65 Time: 0 s 763500 us
+
+Type: block Threads: 8 Filter size: 65 Time: 0 s 740400 us
+
+Type: Interleaved Threads: 8 Filter size: 65 Time: 0 s 736787 us
+
+Type: block Threads: 1 Filter size: 3 Time: 0 s 18800 us
+
+Type: Interleaved Threads: 1 Filter size: 3 Time: 0 s 21634 us
+
+Type: block Threads: 2 Filter size: 3 Time: 0 s 14245 us
+
+Type: Interleaved Threads: 2 Filter size: 3 Time: 0 s 9064 us
+
+Type: block Threads: 4 Filter size: 3 Time: 0 s 8704 us
+
+Type: Interleaved Threads: 4 Filter size: 3 Time: 0 s 6812 us
+
+Type: block Threads: 8 Filter size: 3 Time: 0 s 4706 us
+
+Type: Interleaved Threads: 8 Filter size: 3 Time: 0 s 2651 us
+
+Type: block Threads: 1 Filter size: 13 Time: 0 s 135107 us
+
+Type: Interleaved Threads: 1 Filter size: 13 Time: 0 s 139199 us
+
+Type: block Threads: 2 Filter size: 13 Time: 0 s 64381 us
+
+Type: Interleaved Threads: 2 Filter size: 13 Time: 0 s 64309 us
+
+Type: block Threads: 4 Filter size: 13 Time: 0 s 47120 us
+
+Type: Interleaved Threads: 4 Filter size: 13 Time: 0 s 58165 us
+
+Type: block Threads: 8 Filter size: 13 Time: 0 s 31092 us
+
+Type: Interleaved Threads: 8 Filter size: 13 Time: 0 s 34134 us
+
+Type: block Threads: 1 Filter size: 23 Time: 0 s 359679 us
+
+Type: Interleaved Threads: 1 Filter size: 23 Time: 0 s 367287 us
+
+Type: block Threads: 2 Filter size: 23 Time: 0 s 193687 us
+
+Type: Interleaved Threads: 2 Filter size: 23 Time: 0 s 187985 us
+
+Type: block Threads: 4 Filter size: 23 Time: 0 s 103183 us
+
+Type: Interleaved Threads: 4 Filter size: 23 Time: 0 s 148649 us
+
+Type: block Threads: 8 Filter size: 23 Time: 0 s 100783 us
+
+Type: Interleaved Threads: 8 Filter size: 23 Time: 0 s 108539 us
+
+Type: block Threads: 1 Filter size: 33 Time: 0 s 748336 us
+
+Type: Interleaved Threads: 1 Filter size: 33 Time: 0 s 722572 us
+
+Type: block Threads: 2 Filter size: 33 Time: 0 s 412299 us
+
+Type: Interleaved Threads: 2 Filter size: 33 Time: 0 s 396655 us
+
+Type: block Threads: 4 Filter size: 33 Time: 0 s 221590 us
+
+Type: Interleaved Threads: 4 Filter size: 33 Time: 0 s 219272 us
+
+Type: block Threads: 8 Filter size: 33 Time: 0 s 202953 us
+
+Type: Interleaved Threads: 8 Filter size: 33 Time: 0 s 223228 us
+
+Type: block Threads: 1 Filter size: 43 Time: 1 s 253744 us
+
+Type: Interleaved Threads: 1 Filter size: 43 Time: 1 s 219501 us
+
+Type: block Threads: 2 Filter size: 43 Time: 0 s 644600 us
+
+Type: Interleaved Threads: 2 Filter size: 43 Time: 0 s 671974 us
+
+Type: block Threads: 4 Filter size: 43 Time: 0 s 373261 us
+
+Type: Interleaved Threads: 4 Filter size: 43 Time: 0 s 360949 us
+
+Type: block Threads: 8 Filter size: 43 Time: 0 s 351137 us
+
+Type: Interleaved Threads: 8 Filter size: 43 Time: 0 s 347039 us
+
+Type: block Threads: 1 Filter size: 53 Time: 1 s 851367 us
+
+Type: Interleaved Threads: 1 Filter size: 53 Time: 1 s 861273 us
+
+Type: block Threads: 2 Filter size: 53 Time: 0 s 973649 us
+
+Type: Interleaved Threads: 2 Filter size: 53 Time: 0 s 984603 us
+
+Type: block Threads: 4 Filter size: 53 Time: 0 s 547271 us
+
+Type: Interleaved Threads: 4 Filter size: 53 Time: 0 s 541823 us
+
+Type: block Threads: 8 Filter size: 53 Time: 0 s 535841 us
+
+Type: Interleaved Threads: 8 Filter size: 53 Time: 0 s 524080 us
+
+Type: block Threads: 1 Filter size: 65 Time: 2 s 737521 us
+
+Type: Interleaved Threads: 1 Filter size: 65 Time: 2 s 757583 us
+
+Type: block Threads: 2 Filter size: 65 Time: 1 s 490298 us
+
+Type: Interleaved Threads: 2 Filter size: 65 Time: 1 s 477718 us
+
+Type: block Threads: 4 Filter size: 65 Time: 0 s 813007 us
+
+Type: Interleaved Threads: 4 Filter size: 65 Time: 0 s 839741 us
+
+Type: block Threads: 8 Filter size: 65 Time: 0 s 747487 us
+
+Type: Interleaved Threads: 8 Filter size: 65 Time: 0 s 788622 us
+
