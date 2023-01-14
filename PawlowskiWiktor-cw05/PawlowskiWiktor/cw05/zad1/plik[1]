@@ -1,0 +1,2 @@
+ls -l | grep ain | head -n 10 |head -n 10     |      head -n 10
+ls -l /home/wicia | head -n 10 | tail -n 5
