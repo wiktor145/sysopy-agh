@@ -1,0 +1,398 @@
+/////////////////Komentarz///////////////
+
+Czasy dla sortowan dla rozmiarow bufora od 1 do 1024 bajtow dla tych samych ilosci elementow sa bardzo podobne. Sortowanie 2048 elementow jednobajtowych trwa mniej wiecej tyle samo, co sortowanie 2048 elementow 1024 bajtowych. Wczytywanie i zapisywanie za pomocą buforow 1024 bajtowych jest duzo efektywniejsze niz za pomoca buforow mniejszych. Sortowanie za pomoca buforow 3096 i 8192  bajtowych jest nieco wolniejsze, lecz nie jest to duza roznica (dla 2048 elementow sortowanie za pomoca funkcji bibliotecznych jest okolo dwukrotnie wolniejsze, lecz w tym samym czasie wczytywane i zapisywane bylo 4 razy wielec bajtow).
+
+Dla buforow ponizej 1024 bajtow, sortowanie byo szybsze z uzyciem funkcji bibliotecznych. Roznice byly tym wieksze, im mniejszy byl rozmiar bufora (dla malych buforow roznice byly dwukrotne).
+Przy buforach 4096 i 8192 bajtowych funkcje systemowe byly szybsze. 
+
+Dla wszystkich przypadkow, podwojenie ilosci elementow zwiekszalo czas sortowania okolo 4 razy (wynika ze zlozonosci zastosowanego sortowania babelkowego (n^2)).
+
+
+W przypadku kopiowania, funkcje biblioteczne byly szybsze dla buforow o rozmiarze 1, 4, 1024 oraz dla wiekszej ilosci elementwo przy buforze 8192 bajtow. Funkcje systemowe byly szybsze dla buforow 512, 4096 i dla mniejszej ilosci elementwo przy buforze 8192 bajtowych.
+Przy buforach 1 i 4 bajtowych, roznice byly znaczace (3.77 vs 0.06s na korzysc funkcji bibliotecznych), w pozostalych przypadkach roznice byly mniesze.
+
+Dla wszystkich przypadkow zwiekszenie ilosci elementow dwukrotnie zwiekszalo czas kopiowania mniej wiecej dwukrotnie.
+
+
+Zarowno w przypadku sortowania i kopiowania czasy uzytownika byly podobne pomimo roznic w czasach. przyklad :
+
+sys, buffer - 512, elements - 2048
+
+real time:    7.15 s
+user time:    1.35 s
+system time:    5.78 s
+
+lib, buffer - 512, elements - 2048
+
+real time:    4.68 s
+user time:    1.33 s
+system time:    3.34 s
+
+Stosunki czasu systemowego do calkowitego czasu wszedze byly bardzo podobne.
+
+//////////////////////////////////////////
+
+#######sorting test######
+
+sys, buffer - 1, elements - 2048
+
+real time:    7.38 s
+user time:    1.50 s
+system time:    5.85 s
+-----------------
+
+
+lib, buffer - 1, elements - 2048
+
+real time:    3.87 s
+user time:    1.16 s
+system time:    2.69 s
+-----------------
+
+
+sys, buffer - 1, elements - 4096
+
+real time:   29.06 s
+user time:    5.85 s
+system time:   23.12 s
+-----------------
+
+
+lib, buffer - 1, elements - 4096
+
+real time:   15.64 s
+user time:    4.68 s
+system time:   10.89 s
+-----------------
+
+
+sys, buffer - 4, elements - 2048
+
+real time:    7.37 s
+user time:    1.45 s
+system time:    5.89 s
+-----------------
+
+
+lib, buffer - 4, elements - 2048
+
+real time:    3.79 s
+user time:    1.12 s
+system time:    2.66 s
+-----------------
+
+
+sys, buffer - 4, elements - 4096
+
+real time:   27.93 s
+user time:    5.38 s
+system time:   22.47 s
+-----------------
+
+
+lib, buffer - 4, elements - 4096
+
+real time:   13.47 s
+user time:    3.93 s
+system time:    9.53 s
+-----------------
+
+
+sys, buffer - 512, elements - 2048
+
+real time:    7.15 s
+user time:    1.35 s
+system time:    5.78 s
+-----------------
+
+
+lib, buffer - 512, elements - 2048
+
+real time:    4.68 s
+user time:    1.33 s
+system time:    3.34 s
+-----------------
+
+
+sys, buffer - 512, elements - 4096
+
+real time:   29.19 s
+user time:    5.63 s
+system time:   23.40 s
+-----------------
+
+
+lib, buffer - 512, elements - 4096
+
+real time:   17.86 s
+user time:    5.10 s
+system time:   12.70 s
+-----------------
+
+
+sys, buffer - 1024, elements - 2048
+
+real time:    7.79 s
+user time:    1.47 s
+system time:    6.29 s
+-----------------
+
+
+lib, buffer - 1024, elements - 2048
+
+real time:    5.39 s
+user time:    1.48 s
+system time:    3.89 s
+-----------------
+
+
+sys, buffer - 1024, elements - 4096
+
+real time:   30.73 s
+user time:    5.76 s
+system time:   24.88 s
+-----------------
+
+
+lib, buffer - 1024, elements - 4096
+
+real time:   22.18 s
+user time:    5.87 s
+system time:   16.16 s
+-----------------
+
+
+sys, buffer - 4096, elements - 2048
+
+real time:    9.85 s
+user time:    1.51 s
+system time:    8.30 s
+-----------------
+
+
+lib, buffer - 4096, elements - 2048
+
+real time:   10.06 s
+user time:    1.92 s
+system time:    8.10 s
+-----------------
+
+
+sys, buffer - 4096, elements - 4096
+
+real time:   39.26 s
+user time:    5.92 s
+system time:   33.19 s
+-----------------
+
+
+lib, buffer - 4096, elements - 4096
+
+real time:   42.18 s
+user time:    8.04 s
+system time:   33.97 s
+-----------------
+
+
+sys, buffer - 8192, elements - 2048
+
+real time:   13.53 s
+user time:    1.52 s
+system time:   11.98 s
+-----------------
+
+
+lib, buffer - 8192, elements - 2048
+
+real time:   14.84 s
+user time:    2.20 s
+system time:   12.60 s
+-----------------
+
+
+sys, buffer - 8192, elements - 4096
+
+real time:   55.87 s
+user time:    6.04 s
+system time:   49.65 s
+-----------------
+
+
+lib, buffer - 8192, elements - 4096
+
+real time:   62.34 s
+user time:    9.04 s
+system time:   53.08 s
+-----------------
+
+
+#####copying test######
+
+sys, buffer - 1, elements - 2048000
+real time:    3.77 s
+user time:    0.36 s
+system time:    3.40 s
+-----------------
+
+
+lib, buffer - 1, elements - 2048000
+real time:    0.06 s
+user time:    0.05 s
+system time:    0.01 s
+-----------------
+
+
+sys, buffer - 1, elements - 4096000
+real time:    7.80 s
+user time:    0.71 s
+system time:    7.07 s
+-----------------
+
+
+lib, buffer - 1, elements - 4096000
+real time:    0.12 s
+user time:    0.11 s
+system time:    0.00 s
+-----------------
+
+
+sys, buffer - 4, elements - 2048000
+real time:    3.92 s
+user time:    0.39 s
+system time:    3.53 s
+-----------------
+
+
+lib, buffer - 4, elements - 2048000
+real time:    0.07 s
+user time:    0.05 s
+system time:    0.01 s
+-----------------
+
+
+sys, buffer - 4, elements - 4096000
+real time:    7.92 s
+user time:    0.77 s
+system time:    7.11 s
+-----------------
+
+
+lib, buffer - 4, elements - 4096000
+real time:    0.14 s
+user time:    0.12 s
+system time:    0.02 s
+-----------------
+
+
+sys, buffer - 512, elements - 2048000
+real time:    7.43 s
+user time:    0.40 s
+system time:    4.19 s
+-----------------
+
+
+lib, buffer - 512, elements - 2048000
+real time:    7.89 s
+user time:    0.31 s
+system time:    1.72 s
+-----------------
+
+
+sys, buffer - 512, elements - 4096000
+real time:   12.93 s
+user time:    0.80 s
+system time:    8.63 s
+-----------------
+
+
+lib, buffer - 512, elements - 4096000
+real time:   21.65 s
+user time:    0.76 s
+system time:    4.86 s
+-----------------
+
+
+sys, buffer - 1024, elements - 204800
+real time:    1.98 s
+user time:    0.04 s
+system time:    0.64 s
+-----------------
+
+
+lib, buffer - 1024, elements - 204800
+real time:    1.56 s
+user time:    0.02 s
+system time:    0.28 s
+-----------------
+
+
+sys, buffer - 1024, elements - 409600
+real time:    3.75 s
+user time:    0.08 s
+system time:    1.10 s
+-----------------
+
+
+lib, buffer - 1024, elements - 409600
+real time:    2.35 s
+user time:    0.07 s
+system time:    0.60 s
+-----------------
+
+
+sys, buffer - 4096, elements - 204800
+real time:    5.26 s
+user time:    0.07 s
+system time:    1.16 s
+-----------------
+
+
+lib, buffer - 4096, elements - 204800
+real time:    8.67 s
+user time:    0.13 s
+system time:    1.24 s
+-----------------
+
+
+sys, buffer - 4096, elements - 409600
+real time:   13.33 s
+user time:    0.23 s
+system time:    2.57 s
+-----------------
+
+
+lib, buffer - 4096, elements - 409600
+real time:   23.70 s
+user time:    0.29 s
+system time:    2.86 s
+-----------------
+
+
+sys, buffer - 8192, elements - 204800
+real time:   16.45 s
+user time:    0.16 s
+system time:    2.29 s
+-----------------
+
+
+lib, buffer - 8192, elements - 204800
+real time:   21.58 s
+user time:    0.28 s
+system time:    3.00 s
+-----------------
+
+
+sys, buffer - 8192, elements - 409600
+real time:   52.54 s
+user time:    0.25 s
+system time:    6.42 s
+-----------------
+
+
+lib, buffer - 8192, elements - 409600
+real time:   40.26 s
+user time:    0.53 s
+system time:    6.84 s
+-----------------
+
+
